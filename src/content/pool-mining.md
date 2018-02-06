@@ -55,7 +55,8 @@ Here is a list of most available pools.
 | Garlic Billionaire | @NEZBITE#6443        | http://garlicbillionaire.com/          | 3%**\*** | stratum+tcp://garlicbillionaire.com:3032        | No       |
 | Garlic Bread Pool  | @dvs#3349            | http://www.garlicbread.xyz/            | 1%**\*** | stratum+tcp://stratum.garlicbread.xyz:3032      | No       |
 | Eurogarlic         | luplCZ               | https://eurogarlic.pw/                 | 0.8%     | stratum+tcp://mine.eurogarlic.pw:3333           | No       |
-| The Rypenation     | @RypeDub#7388        | http://rypenation.club/                | 0.63%    | stratum+tcp://RypeNation.club:3333              | No       |  
+| The Rypenation     | @RypeDub#7388        | http://rypenation.club/                | 0.63%    | stratum+tcp://RypeNation.club:3333              | No       | 
+| Hashcookie     | @nuggetbram4278        | http://hashcookie.club               | 0.5%    | stratum+tcp://hashcookie.club:3333              | No       | 
 
 <br>
 \* Some parts (or all) of their fees are used for different purposes: Charity, Block Finder Reward, Improvement of Garlicoin...
